@@ -2,25 +2,25 @@
 
 Basice apps, packages and programs you need in your mashine in order to start codeing 
 
-1. ubuntu [download](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
-1. zoom [download](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux)
-1. slack
+* ubuntu [download](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
+* zoom [download](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux)
+* slack
 ````
 $ sudo snap install slack --classic
 ````
-1. vscode 
+* vscode 
 ````
 $ sudo snap install --classic code
 ````
-1. nodejs
+* nodejs
 ````
 $ sudo apt install nodejs
 ````
-1. npm 
+* npm 
 ````
 $ sudo apt install npm
 ````
-1. nodemon
+* nodemon
 ````
 $ npm install -g nodemon
 ````
