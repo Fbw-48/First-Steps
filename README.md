@@ -2,8 +2,10 @@
 
 Basice apps, packages and programs you need in your mashine in order to start codeing 
 
-* ubuntu [download](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
+Ps: all the following downloads are specifically for Ubuntu System 
+
 * zoom [download](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux)
+
 * slack
 ````
 $ sudo snap install slack --classic
@@ -11,6 +13,10 @@ $ sudo snap install slack --classic
 * vscode 
 ````
 $ sudo snap install --classic code
+````
+* git
+````
+$ sudo apt install git-all
 ````
 * nodejs
 ````
